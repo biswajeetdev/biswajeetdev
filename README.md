@@ -1,16 +1,20 @@
-## Hi there 👋
+# Biswajeet Kumar
 
-<!--
-**biswajeetdev/biswajeetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and full-stack developer. Node.js, TypeScript, PostgreSQL.
 
-Here are some ideas to get you started:
+Currently building: finance systems, realtime apps, and AI-integrated tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 India — open to remote worldwide
+- 📧 thisisbiswajeetkumar@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/biswajeetkumar)
+
+## Projects
+
+**[Finance Dashboard API](https://github.com/biswajeetdev/finance-dashboard-api)**
+Role-based REST API with JWT auth, RBAC middleware, PostgreSQL, and dashboard analytics.
+
+**[Calm Notes](https://github.com/biswajeetdev/Calm-Notes)**
+Full-stack notes app — React frontend, Node.js backend, PostgreSQL, Docker.
+
+**[Realtime Chat](https://github.com/biswajeetdev/realtime-chat-app)**
+Mobile chat app using Expo and InstantDB for live message syncing.
