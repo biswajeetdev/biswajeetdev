@@ -8,13 +8,26 @@ Building finance systems, realtime apps, and AI-integrated tools.
 
 ---
 
-## Stack
+## Tech Stack
 
-**Backend:** Node.js · Express · NestJS · GraphQL · REST  
-**Frontend:** React · Next.js · React Native (Expo)  
-**Databases:** PostgreSQL · Prisma · Drizzle ORM · Knex.js  
-**AI / ML:** OpenAI · ElevenLabs · FAISS · RAG pipelines · Python  
-**Tools:** Docker · JWT · WebRTC · TypeScript
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biswajeetdev&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswajeetdev&layout=compact&theme=dark&hide_border=true)
 
 ---
 
