@@ -4,7 +4,7 @@ Backend and full-stack developer — Node.js, TypeScript, PostgreSQL.
 Building finance systems, realtime apps, and AI-integrated tools.
 
 📍 India · Remote worldwide  
-📧 thisisbiswajeetkumar@gmail.com · [LinkedIn](https://linkedin.com/in/biswajeetkumar)
+📧 thisisbiswajeetkumar@gmail.com · [LinkedIn](https://linkedin.com/in/biswajeetkumar) · [Portfolio](https://biswajeet-kumar-portfolio.run.app)
 
 ---
 
