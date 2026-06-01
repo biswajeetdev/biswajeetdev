@@ -21,6 +21,6 @@ Backend developer in Bangalore. I build AI tools, automation pipelines, and secu
 
 **Languages:** Python · TypeScript · Node.js · SQL · Rust  
 **AI/ML:** Groq · FAISS · sentence-transformers · RAG pipelines  
-**APIs & Security:** JWT · RBAC · rate-limiting · CORS · PostgreSQL · Express
+**APIs & Security:** JWT · RBAC · rate-limiting · CORS · PostgreSQL · Express 
 
-📍 Bangalore, India · [portfolio](https://portfolio-new-blue-sigma-24.vercel.app) · thisisbiswajeetkumar@gmail.com
+📍 New Delhi, India · [portfolio](https://portfolio-new-blue-sigma-24.vercel.app) · thisisbiswajeetkumar@gmail.com
