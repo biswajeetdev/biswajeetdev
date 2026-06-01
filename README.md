@@ -1,6 +1,6 @@
 # Biswajeet Kumar
 
-Backend developer in New Delhi. I build AI tools, automation pipelines, and secure APIs.
+Backend developer in Bangalore. I build AI tools, automation pipelines, and secure APIs.
 
 **Focus:** LLM integrations · Document intelligence · Browser automation · API security
 
@@ -21,6 +21,13 @@ Backend developer in New Delhi. I build AI tools, automation pipelines, and secu
 
 **Languages:** Python · TypeScript · Node.js · SQL · Rust  
 **AI/ML:** Groq · FAISS · sentence-transformers · RAG pipelines  
-**APIs & Security:** JWT · RBAC · rate-limiting · CORS · PostgreSQL · Express 
+**APIs & Security:** JWT · RBAC · rate-limiting · CORS · PostgreSQL · Express
 
-📍 New Delhi, India · [portfolio](https://portfolio-new-blue-sigma-24.vercel.app) · thisisbiswajeetkumar@gmail.com
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biswajeetdev&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswajeetdev&layout=compact&hide_border=true&theme=default)
+
+---
+
+📍 Bangalore, India · [portfolio](https://portfolio-new-blue-sigma-24.vercel.app) · thisisbiswajeetkumar@gmail.com
