@@ -1,39 +1,26 @@
 # Biswajeet Kumar
 
-Backend developer + AI builder — Python, Node.js, TypeScript.  
-Currently: MBA in Generative AI & Product Management at IIT Patna.
+Backend developer in Bangalore. I build AI tools, automation pipelines, and secure APIs.
 
-📍 New Delhi, India  
-📧 thisisbiswajeetkumar@gmail.com · [LinkedIn](https://linkedin.com/in/biswajeetkumar)
-
----
-
-## Stack
-
-**AI / ML:** Groq · Claude API · OpenAI · FAISS · RAG pipelines · sentence-transformers · Streamlit  
-**Backend:** Python · Node.js · Express · NestJS · GraphQL · REST  
-**Frontend:** React · Next.js · React Native (Expo)  
-**Databases:** PostgreSQL · Prisma · Knex.js  
-**Tools:** Playwright · Docker · JWT · TypeScript · Git
+**Focus:** LLM integrations · Document intelligence · Browser automation · API security
 
 ---
 
 ## Projects
 
-**[Doc Q&A](https://github.com/biswajeetdev/doc-qa-ai)**  
-RAG pipeline — upload any PDF and ask questions. Local sentence-transformers embeddings + FAISS + Groq (free). No OpenAI key required.
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [ai-policy-summarizer](https://github.com/biswajeetdev/ai-policy-summarizer) | Parses & compares policy PDFs into structured summaries — key actions, roles, deadlines | Python · Groq · Streamlit |
+| [doc-qa-ai](https://github.com/biswajeetdev/doc-qa-ai) | RAG Q&A over any PDF, local embeddings, free LLM | Python · FAISS · sentence-transformers |
+| [application-automation](https://github.com/biswajeetdev/application-automation) | Fills Greenhouse ATS forms from a YAML profile — screenshot-before-submit safety step | Python · Playwright |
+| [finance-dashboard-api](https://github.com/biswajeetdev/finance-dashboard-api) | RBAC REST API — JWT, rate-limited auth, CORS-hardened | Node.js · PostgreSQL · TypeScript |
+| [rdb-alpha](https://github.com/biswajeetdev/rdb-alpha) | Redis-protocol key-value store, 25 commands, zero dependencies | Python · asyncio |
+| [Calm Notes](https://github.com/biswajeetdev/Calm-Notes) | Full-stack wellness app with Stripe payments | TypeScript · React · PostgreSQL |
 
-**[AI Policy Summarizer](https://github.com/biswajeetdev/ai-policy-summarizer)**  
-Turns dense policy PDFs into structured plain-language summaries: key points, required actions, affected roles, deadlines, jargon glossary. Compare mode diffs two documents side by side. Built with Groq + Streamlit.
+---
 
-**[Application Automation](https://github.com/biswajeetdev/application-automation)**  
-Playwright CLI that fills Greenhouse ATS job application forms from a YAML profile. YAML-driven, headed browser, screenshot-before-submit safety step. Extensible to Lever and Ashby.
+**Languages:** Python · TypeScript · Node.js · SQL · Rust  
+**AI/ML:** Groq · FAISS · sentence-transformers · RAG pipelines  
+**APIs & Security:** JWT · RBAC · rate-limiting · CORS · PostgreSQL · Express
 
-**[Finance Dashboard API](https://github.com/biswajeetdev/finance-dashboard-api)**  
-Role-based REST API — JWT auth, RBAC middleware, PostgreSQL, dashboard analytics. Origin-scoped CORS, rate-limited auth routes. Node.js + Express 5 + Knex.js.
-
-**[Numal — AI Voice Meditation](https://github.com/biswajeetdev/numal-mindfulness)**  
-React Native app with real-time AI-guided voice sessions via ElevenLabs + WebRTC.
-
-**[Realtime Chat](https://github.com/biswajeetdev/realtime-chat-app)**  
-Mobile chat with React Native (Expo) and InstantDB — real-time sync, no traditional backend.
+📍 Bangalore, India · [portfolio](https://portfolio-new-blue-sigma-24.vercel.app) · thisisbiswajeetkumar@gmail.com
