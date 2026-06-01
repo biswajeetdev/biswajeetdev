@@ -1,6 +1,6 @@
 # Biswajeet Kumar
 
-Backend developer in Bangalore. I build AI tools, automation pipelines, and secure APIs.
+Backend developer in New Delhi. I build AI tools, automation pipelines, and secure APIs.
 
 **Focus:** LLM integrations · Document intelligence · Browser automation · API security
 
