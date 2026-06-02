@@ -19,14 +19,15 @@ Backend developer in Bangalore. I build AI tools, automation pipelines, and secu
 
 ---
 
+[![Skills](https://skillicons.dev/icons?i=python,nodejs,ts,postgres,react,fastapi,docker,git&theme=light)](https://skillicons.dev)
+
 **Languages:** Python · TypeScript · Node.js · SQL · Rust  
 **AI/ML:** Groq · FAISS · sentence-transformers · RAG pipelines  
 **APIs & Security:** JWT · RBAC · rate-limiting · CORS · PostgreSQL · Express
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biswajeetdev&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswajeetdev&layout=compact&hide_border=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biswajeetdev&hide_border=true&theme=default)](https://git.io/streak-stats)
 
 ---
 
