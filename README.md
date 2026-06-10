@@ -1,6 +1,6 @@
 # Biswajeet Kumar
 
-**AI automation builder · Founding engineer targets · Bangalore**
+**AI automation builder · Founding engineer targets · Patna, Bihar**
 
 Python · Node · Rust · Agents · Pipelines  
 Wabash College PPE + CS · IIT Patna Exec MBA
@@ -44,4 +44,4 @@ Wabash College PPE + CS · IIT Patna Exec MBA
 ---
 
 Open to **founding engineer · AI ops · automation builder** roles — India + remote  
-📍 Bangalore · [portfolio](https://portfolio-new-blue-sigma-24.vercel.app) · thisisbiswajeetkumar@gmail.com
+📍 Patna, Bihar · [portfolio](https://portfolio-new-blue-sigma-24.vercel.app) · thisisbiswajeetkumar@gmail.com
