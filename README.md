@@ -12,7 +12,7 @@ Wabash College PPE + CS · IIT Patna Exec MBA
 | Project | What |
 |---------|------|
 | **AI-Trader** | Autonomous paper-trading system — 15+ parallel signal sources, BULL/BEAR/ARBITER LLM debate engine, Thompson Sampling position sizer, Bloomberg dashboard. Paper: Alpaca $100K + ai4trade $100K simulated |
-| **Jarvis** | Wake-word voice assistant — fully offline on M1 Mac, Whisper + Ollama + Piper TTS, persistent memory |
+| **Friday** | Wake-word voice assistant — fully offline on M1 Mac, Whisper + Ollama + Piper TTS, persistent memory |
 | **YT Clipper** | Long-form video → 3 platform-ready shorts in <5 min via Whisper + LLM highlight detection + ffmpeg |
 | **career-ops** | AI job-search pipeline — LLM scoring, cold outreach automation, application tracking |
 
