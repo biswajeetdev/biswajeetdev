@@ -1,6 +1,6 @@
 # Biswajeet Kumar
 
-**AI engineer · Backend systems · Bangalore, India**
+**AI engineer · Backend systems · Patna, Bihar**
 
 Python · Node · TypeScript · PyTorch · LLM infrastructure  
 Wabash College PPE + CS · IIT Patna Exec MBA
@@ -60,4 +60,4 @@ Wabash College PPE + CS · IIT Patna Exec MBA
 ---
 
 Open to **AI engineer · backend · founding engineer** roles — India + remote  
-📍 Bangalore, India · [portfolio](https://portfolio-new-blue-sigma-24.vercel.app) · thisisbiswajeetkumar@gmail.com
+📍 Patna, Bihar · [portfolio](https://portfolio-new-blue-sigma-24.vercel.app) · thisisbiswajeetkumar@gmail.com
